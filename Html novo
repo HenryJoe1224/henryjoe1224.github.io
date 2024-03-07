@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+  <h1>Site de Lionel Andrés Messi Cuccitini</h1>
+  <p>Essa é a biografia de Lionel Messi <a href ="https://pt.wikipedia.org/wiki/Lionel_Messi"> Clique aqui</a></p>
+  <h2><img src="Messi.jpg"></h2>
+  <h3>Aqui estão os principais lançes</h2>
+  <p> <a href = "https://www.youtube.com/watch?v=_oquwJuDpvI"> Clique Aqui</a></p>
+
+</body>
+</html>
